@@ -2,7 +2,7 @@
 
 const OpenAIHeaders = {   
     'Content-Type': 'application/json',
-    'Authorization': `Bearer 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`
+    'Authorization': `Bearer Your_Api_Key`
 };
 
 

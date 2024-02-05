@@ -13,6 +13,32 @@ The createEmbedding function sends a POST request to the OpenAI API with a speci
 
 ##### The Response for this testing in postman is saved as response.json in this repo.
 
+#### The Database full of embeddings are different these are called Vector Databases
+
+Here I have Tried with SingleStoreDB which is cloud DB.. Now i will try to store the embeddings in the DB and Try to Search them.
+
+After Setting a Workspace and DB in SingleStoreDB ... 
+
+##### Creating the Table 
+
+![Inserting the words and embeddings](Code_for_TBL_Creation.png)
+
+
+##### Inserting the Data in DB
+
+![Inserting the words and embeddings](Inserting_hw_embedding.png)
+
+##### In a similar way I have generated other embeddings using postman, Now viewing our Sample Data 
+![Inserting the words and embeddings](sample_data.png)
+
+
+
+
+
+
+
+
+
 
 
 
